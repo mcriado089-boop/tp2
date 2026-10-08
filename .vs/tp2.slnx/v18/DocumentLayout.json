@@ -3,8 +3,14 @@
   "WorkspaceRootPath": "C:\\T.D.D.S\\tp_n2\\tp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0C5B498-B8D9-42C6-A839-8024ABC39177}|tp2.csproj|c:\\t.d.d.s\\tp_n2\\tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0C5B498-B8D9-42C6-A839-8024ABC39177}|tp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F78288F3-1953-4D4C-94FB-857AD70DA0B5}|..\\EJE3\\EJE3.csproj|c:\\t.d.d.s\\tp_n2\\eje3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC15BC0-AF59-40FA-826F-0F136DB4F423}|..\\EJE-N2\\EJE-N2.csproj|c:\\t.d.d.s\\tp_n2\\eje-n2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C5B498-B8D9-42C6-A839-8024ABC39177}|tp2.csproj|c:\\t.d.d.s\\tp_n2\\tp2\\eje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C5B498-B8D9-42C6-A839-8024ABC39177}|tp2.csproj|solutionrelative:eje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +26,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\T.D.D.S\\tp_n2\\tp2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\T.D.D.S\\tp_n2\\tp2\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvwwAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\T.D.D.S\\tp_n2\\EJE3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EJE3\\Program.cs",
+              "ToolTip": "C:\\T.D.D.S\\tp_n2\\EJE3\\Program.cs",
+              "RelativeToolTip": "..\\EJE3\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T18:54:19.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\T.D.D.S\\tp_n2\\EJE-N2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EJE-N2\\Program.cs",
+              "ToolTip": "C:\\T.D.D.S\\tp_n2\\EJE-N2\\Program.cs",
+              "RelativeToolTip": "..\\EJE-N2\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T18:44:47.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EJE1.cs",
+              "DocumentMoniker": "C:\\T.D.D.S\\tp_n2\\tp2\\EJE1.cs",
+              "RelativeDocumentMoniker": "EJE1.cs",
+              "ToolTip": "C:\\T.D.D.S\\tp_n2\\tp2\\EJE1.cs",
+              "RelativeToolTip": "EJE1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T00:48:06.377Z",
               "EditorCaption": ""

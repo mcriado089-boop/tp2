@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="tp2.csproj" />
+  <Project Path="../EJE-N2/EJE-N2.csproj" Id="dac15bc0-af59-40fa-826f-0f136db4f423" />
+  <Project Path="../EJE3/EJE3.csproj" Id="f78288f3-1953-4d4c-94fb-857ad70da0b5" />
+  <Project Path="tp2.csproj" Id="d0c5b498-b8d9-42c6-a839-8024abc39177" />
 </Solution>
